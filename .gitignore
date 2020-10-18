@@ -1,0 +1,6 @@
+/DOCS
+*.out
+*.exe
+.vscode/
+main
+*.csv

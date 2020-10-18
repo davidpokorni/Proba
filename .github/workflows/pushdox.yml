@@ -3,8 +3,7 @@ name: Doxygen workflow
 on:
   push:	
     branches:
-      - master
-      - attackspeed
+      - main
       - gh-pages
 jobs:
 
